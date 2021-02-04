@@ -1,0 +1,43 @@
+{
+  "pageTitle": "Expenses",
+  "PageSubTitle": "Manage expenses",
+  "topStatisticsTitle": "Showing statistics of",
+  "bottomItemsTitle": "Expense items",
+  "statistics": [
+      {
+        "itemIconUrl": "ic_action_name",
+        "itemCount": 8,
+        "itemName": "Reported",
+        "nextIconUrl": "opt"
+      },
+      {
+        "itemIconUrl": "ic_action_name",
+        "itemCount": 5,
+        "itemName": "Unreported",
+        "nextIconUrl": "opt"
+      },
+      {
+        "itemIconUrl": "ic_action_name",
+        "itemCount": 8,
+        "itemName": "Submitted",
+        "nextIconUrl": "opt"
+      }
+    ],
+  "manageItems": [
+      {
+        "itemIconUrl": "ic_action_name",
+        "label": "Expenses",
+        "count": 10
+      },
+      {
+        "itemIconUrl": "ic_action_name",
+        "label": "Reports",
+        "count": 20
+      },
+      {
+        "itemIconUrl": "ic_action_name",
+        "label": "Payments",
+        "count": 20
+      }
+    ]
+}
