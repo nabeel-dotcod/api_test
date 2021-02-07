@@ -39,6 +39,11 @@
         "itemIconUrl": "ic_advance_payments_item",
         "label": "Payments",
         "count": 20
+      },
+      {
+        "itemIconUrl": "ic_advance_payments_item",
+        "label": "Payments",
+        "count": 20
       }
     ]
 }
