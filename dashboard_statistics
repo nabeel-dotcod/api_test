@@ -26,17 +26,17 @@
     ],
   "manageItems": [
       {
-        "itemIconUrl": "ic_action_name",
+        "itemIconUrl": "ic_expenses_item",
         "label": "Expenses",
         "count": 10
       },
       {
-        "itemIconUrl": "ic_action_name",
+        "itemIconUrl": "ic_reports_item",
         "label": "Reports",
         "count": 20
       },
       {
-        "itemIconUrl": "ic_action_name",
+        "itemIconUrl": "ic_advance_payments_item",
         "label": "Payments",
         "count": 20
       }
