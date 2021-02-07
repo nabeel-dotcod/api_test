@@ -5,19 +5,19 @@
   "bottomItemsTitle": "Expense items",
   "statistics": [
       {
-        "itemIconUrl": "ic_action_name",
+        "itemIconUrl": "ic_unsubmitted_expense",
         "itemCount": 8,
         "itemName": "Reported",
         "nextIconUrl": "opt"
       },
       {
-        "itemIconUrl": "ic_action_name",
+        "itemIconUrl": "ic_unreported_expense",
         "itemCount": 5,
         "itemName": "Unreported",
         "nextIconUrl": "opt"
       },
       {
-        "itemIconUrl": "ic_action_name",
+        "itemIconUrl": "ic_submitted_expense",
         "itemCount": 8,
         "itemName": "Submitted",
         "nextIconUrl": "opt"
