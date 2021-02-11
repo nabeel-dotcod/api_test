@@ -1,0 +1,96 @@
+{
+    "expenseItem": "SeedPurchase",
+    "expenseAmount": "$4000",
+    "details": "Vendor : Efresh Agribusiness Solutions Private Limited",
+    "date": "25 Jan 2021",
+    "status": "Approved",
+    "statusBannerColor": "#42a436",
+    "expenseItemImageUrl": "https://post.healthline.com/wp-content/uploads/2020/09/flaxseeds-on-wooden-spoon-thumb.jpg",
+    "expenseDetails": {
+        "title": "Expense Details",
+        "associatedReport": {
+            "reportDate": "Jan 2021",
+            "reportId": "3056"
+        },
+        "skuNumber": "234454",
+        "warehouseDetails": "Phasellus finibus enim nulla, quis ornare odio facilisis eu. Suspendisse ornare ante sit amet arcu semper, vel eleifend tortor egestas. Aenean luctus, lorem in hendrerit interdum, leo orci egestas diam, ac euismod massa est et turpis. Etiam auctor lectus vel neque convallis pharetra. Ut turpis eros, aliquet non ante id, interdum placerat erat. Curabitur sit amet eros vel orci venenatis hendrerit. Cras sagittis sagittis sagittis. In hac habitasse platea dictumst. Phasellus diam erat, porttitor sed ligula at, ultricies auctor tellus. Donec ut sem in turpis ultrices suscipit ut auctor tellus. Quisque a tincidunt ipsum."
+    },
+    "activityDetails": [{
+            "activityTitle": "Expense created",
+            "date": "25 Jan 2021",
+            "time": "4:15 pm",
+            "name": "Vijay Rahgu"
+        },
+        {
+            "activityTitle": "Finance created",
+            "date": "20 Jan 2021",
+            "time": "4:15 pm",
+            "name": "Subaid Singhu"
+        },
+        {
+            "activityTitle": "bla bla created",
+            "date": "19 Jan 2021",
+            "time": "4:15 pm",
+            "name": "Vijay Ramboche"
+        },
+        {
+            "activityTitle": "Expense created",
+            "date": "15 Jan 2021",
+            "time": "4:15 pm",
+            "name": "Vijay Rahgu"
+        },
+        {
+            "activityTitle": "Expense created",
+            "date": "10 Dec 2020",
+            "time": "4:15 pm",
+            "name": "Raghu varen"
+        },
+        {
+            "activityTitle": "Expense created",
+            "date": "5 Dec 2020",
+            "time": "4:15 pm",
+            "name": "Vijay Rahgu"
+        }
+    ],
+    "comments": [{
+            "userImageUrl": "https://i.pinimg.com/originals/60/a0/26/60a0262e88149d716362d6bceaec19ad.png",
+            "userName": "RaghuVaren - Fpo",
+            "userId": "402512",
+            "message": "Can you please explain why I should be typing a comment here?",
+            "date": "25 Jan 2021",
+            "time": "4:15 pm"
+        },
+        {
+            "userImageUrl": "https://mk0trickyphotos51tq5.kinstacdn.com/wp-content/uploads/2017/08/final-1.png",
+            "userName": "Benjamin frankin",
+            "userId": "402512",
+            "message": "Can you please explain why I should be typing a comment here?",
+            "date": "25 Jan 2021",
+            "time": "4:15 pm"
+        },
+        {
+            "userImageUrl": "https://cdn0.iconfinder.com/data/icons/bold-purple-free-samples/32/User_Avatar_Human_Profile_Face_Circle-512.png",
+            "userName": "Adwaid M D",
+            "userId": "402512",
+            "message": "Can you please explain why I should be typing a comment here?",
+            "date": "25 Jan 2021",
+            "time": "4:15 pm"
+        },
+        {
+            "userImageUrl": "https://mk0trickyphotos51tq5.kinstacdn.com/wp-content/uploads/2017/08/final-1.png",
+            "userName": "Benjamin frankin",
+            "userId": "402512",
+            "message": "Can you please explain why I should be typing a comment here?",
+            "date": "25 Jan 2021",
+            "time": "4:15 pm"
+        }
+    ],
+    "documents": [{
+        "documentName": "Adhaar Card",
+        "type": "Address Proof",
+        "description": "Description: This is an identity proof.  Needs to be submitted to make sales orders so attached ….",
+        "documentUrlLocal": "",
+        "documentUrlServer": ""
+    }]
+
+}
