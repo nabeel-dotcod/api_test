@@ -1,0 +1,64 @@
+{
+    "pageTitle": "Manage Reports",
+    "report_list": [{
+            "reportId": "RE-0010",
+            "reportName": "Report 1",
+            "fromDate": "25 Jan 2021",
+            "toDate": "15 Feb 2021",
+            "amount": "$3000",
+            "approverName": "Ram Shanker",
+            "statusColor": "#00ac25",
+            "statusMessage": "Approved"
+        },
+        {
+            "reportId": "RE-0020",
+            "reportName": "Report 1-5",
+            "fromDate": "25 Dec 2020",
+            "toDate": "15 Feb 2021",
+            "amount": "$35000",
+            "approverName": "Ravi Shanker",
+            "statusColor": "#FF018786",
+            "statusMessage": "Not Approved"
+        },
+        {
+            "reportId": "RE-0110",
+            "reportName": "New Report SSF",
+            "fromDate": "25 Jan 2021",
+            "toDate": "15 Feb 2021",
+            "amount": "$33000",
+            "approverName": "Ram Shanker",
+            "statusColor": "#00ac25",
+            "statusMessage": "Approved"
+        },
+        {
+            "reportId": "RES-0010",
+            "reportName": "Report 1",
+            "fromDate": "25 Jan 2021",
+            "toDate": "15 Feb 2021",
+            "amount": "$43000",
+            "approverName": "Ram Shanker",
+            "statusColor": "#00ac25",
+            "statusMessage": "Approved"
+        },
+        {
+            "reportId": "RE-0010",
+            "reportName": "Report 1",
+            "fromDate": "25 Jan 2021",
+            "toDate": "15 Feb 2021",
+            "amount": "$36000",
+            "approverName": "Ram Shanker",
+            "statusColor": "#00ac25",
+            "statusMessage": "Approved"
+        },
+        {
+            "reportId": "RE-0010",
+            "reportName": "Report 1",
+            "fromDate": "25 Jan 2021",
+            "toDate": "15 Feb 2021",
+            "amount": "$93000",
+            "approverName": "Ram Shanker",
+            "statusColor": "#00ac25",
+            "statusMessage": "Approved"
+        }
+    ]
+}
