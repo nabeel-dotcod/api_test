@@ -12,7 +12,7 @@
         "endDate": "29 Feb 2020",
         "businessPurpose": "Phasellus finibus enim nulla, quis ornare odio facilisis eu. Suspendisse ornare ante sit amet arcu semper, vel eleifend tortor egestas. Aenean luctus, lorem in hendrerit interdum, leo orci egestas diam, ac euismod massa est et turpis. Etiam auctor lectus vel neque convallis pharetra. Ut turpis eros, aliquet non ante id, interdum placerat erat. Curabitur sit amet eros vel orci venenatis hendrerit. Cras sagittis sagittis sagittis. In hac habitasse platea dictumst. Phasellus diam erat, porttitor sed ligula at, ultricies auctor tellus. Donec ut sem in turpis ultrices suscipit ut auctor tellus. Quisque a tincidunt ipsum."
     },
-    "expenseDetails": {
+    "reportExpenseDetails": {
         "title": "Expense ",
         "associatedReport": {
             "reportDate": "Jan 2021",
@@ -70,7 +70,7 @@
             "name": "Vijay Rahgu"
         }
     ],
-    "comments": [{
+    "reportComments": [{
             "userImageUrl": "https://i.pinimg.com/originals/60/a0/26/60a0262e88149d716362d6bceaec19ad.png",
             "userName": "RaghuVaren - Fpo",
             "userId": "402512",
@@ -103,7 +103,7 @@
             "time": "4:15 pm"
         }
     ],
-    "documents": [{
+    "reportsDocuments": [{
         "documentName": "Adhaar Card",
         "type": "Address Proof",
         "description": "Description: This is an identity proof.  Needs to be submitted to make sales orders so attached ….",
