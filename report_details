@@ -12,15 +12,34 @@
         "endDate": "29 Feb 2020",
         "businessPurpose": "Phasellus finibus enim nulla, quis ornare odio facilisis eu. Suspendisse ornare ante sit amet arcu semper, vel eleifend tortor egestas. Aenean luctus, lorem in hendrerit interdum, leo orci egestas diam, ac euismod massa est et turpis. Etiam auctor lectus vel neque convallis pharetra. Ut turpis eros, aliquet non ante id, interdum placerat erat. Curabitur sit amet eros vel orci venenatis hendrerit. Cras sagittis sagittis sagittis. In hac habitasse platea dictumst. Phasellus diam erat, porttitor sed ligula at, ultricies auctor tellus. Donec ut sem in turpis ultrices suscipit ut auctor tellus. Quisque a tincidunt ipsum."
     },
-    "reportExpenseDetails": {
-        "title": "Expense ",
-        "associatedReport": {
-            "reportDate": "Jan 2021",
-            "reportId": "3056"
+    "expense_list": [{
+            "itemName": "Seed Purchase",
+            "itemImage": "https://post.healthline.com/wp-content/uploads/2020/09/flaxseeds-on-wooden-spoon-thumb.jpg",
+            "purchaseDate": "25-Jan-2021",
+            "purchaseDetails": "Vendor : Efresh Agribusiness Solutions Private Limited",
+            "amount": "$3000",
+            "statusMessage": "Approved",
+            "statusColor": "#00ac25"
         },
-        "skuNumber": "234454",
-        "warehouseDetails": "Phasellus finibus enim nulla, quis ornare odio facilisis eu. Suspendisse ornare ante sit amet arcu semper, vel eleifend tortor egestas. Aenean luctus, lorem in hendrerit interdum, leo orci egestas diam, ac euismod massa est et turpis. Etiam auctor lectus vel neque convallis pharetra. Ut turpis eros, aliquet non ante id, interdum placerat erat. Curabitur sit amet eros vel orci venenatis hendrerit. Cras sagittis sagittis sagittis. In hac habitasse platea dictumst. Phasellus diam erat, porttitor sed ligula at, ultricies auctor tellus. Donec ut sem in turpis ultrices suscipit ut auctor tellus. Quisque a tincidunt ipsum."
-    },
+        {
+            "itemName": "Equipment Purchase",
+            "itemImage": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Belarus_3022.jpg",
+            "purchaseDate": "25-Jan-2021",
+            "purchaseDetails": "Vendor : Efresh Agribusiness Solutions Private Limited",
+            "amount": "$3000",
+            "statusMessage": "Unsubmitted",
+            "statusColor": "#cbcbcb"
+        },
+        {
+            "itemName": "Pesticides Purchase",
+            "itemImage": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/pesticide-storage-solutions-section-1.jpg",
+            "purchaseDate": "25-Jan-2021",
+            "purchaseDetails": "Vendor : Efresh Agribusiness Solutions Private Limited",
+            "amount": "$3000",
+            "statusMessage": "Unreported",
+            "statusColor": "#ffcc34"
+        }
+    ],
     "activityDetails": [{
             "activityTitle": "Expense created",
             "date": "25 Jan 2021",
