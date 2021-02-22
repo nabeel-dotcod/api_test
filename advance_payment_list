@@ -1,0 +1,40 @@
+{
+    "pageTitle": "Advance Payments",
+    "paymentsList": [{
+            "paymentId": "#ER-10250",
+            "name": "Ramesh Nambiyar",
+            "paymentDate": "25-Jan-2021",
+            "amount": "$3000"
+        },
+        {
+            "paymentId": "#ER-10251",
+            "name": "John Honayi",
+            "paymentDate": "23-Jan-2021",
+            "amount": "$5000"
+        },
+        {
+            "paymentId": "#ER-10350",
+            "name": "Thomas Kutti",
+            "paymentDate": "10-Jan-2021",
+            "amount": "$8000"
+        },
+        {
+            "paymentId": "#ER-10550",
+            "name": "Gilbert Hoipos",
+            "paymentDate": "06-Jan-2021",
+            "amount": "$3000"
+        },
+        {
+            "paymentId": "#ER-10450",
+            "name": "Sathish vasi",
+            "paymentDate": "04-Feb-2021",
+            "amount": "$3000"
+        },
+        {
+            "paymentId": "#ER-10050",
+            "name": "Ramesh Nambiyar",
+            "paymentDate": "25-Jan-2021",
+            "amount": "$3000"
+        },
+    ]
+}
