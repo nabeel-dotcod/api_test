@@ -28,7 +28,7 @@
             "amount": "$33000",
             "approverName": "Ram Shanker",
             "statusColor": "#00ac25",
-            "statusMessage": "Approved"
+            "statusMessage": "Not Approved"
         },
         {
             "reportId": "RES-0010",
@@ -48,7 +48,7 @@
             "amount": "$36000",
             "approverName": "Ram Shanker",
             "statusColor": "#00ac25",
-            "statusMessage": "Approved"
+            "statusMessage": "Not Approved"
         },
         {
             "reportId": "RE-0010",
