@@ -1,0 +1,41 @@
+{
+    "mandiPriceMetaData": "xyz",
+    "mandiPriceList": [{
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropName": "Dried Chilli",
+            "cropPrice": "$ 4000",
+            "cropPriceUnit": "Quintal"
+        },
+        {
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropName": "Dried Chilli",
+            "cropPrice": "$ 4000",
+            "cropPriceUnit": "Quintal"
+        },
+        {
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropName": "Dried Chilli",
+            "cropPrice": "$ 4000",
+            "cropPriceUnit": "Quintal"
+        },
+        {
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropName": "Dried Chilli",
+            "cropPrice": "$ 4000",
+            "cropPriceUnit": "Quintal"
+        },
+        {
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropName": "Dried Chilli",
+            "cropPrice": "$ 4000",
+            "cropPriceUnit": "Quintal"
+        },
+        {
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropName": "Dried Chilli",
+            "cropPrice": "$ 4000",
+            "cropPriceUnit": "Quintal"
+        }
+    ]
+
+}
