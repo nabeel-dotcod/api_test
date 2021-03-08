@@ -1,0 +1,44 @@
+{
+    "followingMetaData": "following",
+    "followingList": [{
+            "name": "Kung Fu Pande",
+            "userId": "10252",
+            "FPO_name": "Koutla(B) MACTS Ltd.",
+            "cropsNameList": ["Paddy", "Corn", "Chilli"],
+            "landArea": "10 acers",
+            "landImageIcon": "ic_land_image",
+            "cropImageIcon": "ic_crop_image",
+            "profilePicUrl": "https://www.sundayguardianlive.com/wp-content/uploads/2019/01/5_Kundan-farmers-edited_farmer-reu-1.jpg"
+        },
+        {
+            "name": "Kung Fu Pande",
+            "userId": "10252",
+            "FPO_name": "Koutla(B) MACTS Ltd.",
+            "cropsNameList": ["Paddy", "Corn", "Chilli"],
+            "landArea": "10 acers",
+            "landImageIcon": "ic_land_image",
+            "cropImageIcon": "ic_crop_image",
+            "profilePicUrl": "https://www.sundayguardianlive.com/wp-content/uploads/2019/01/5_Kundan-farmers-edited_farmer-reu-1.jpg"
+        },
+        {
+            "name": "Kung Fu Pande",
+            "userId": "10252",
+            "FPO_name": "Koutla(B) MACTS Ltd.",
+            "cropsNameList": ["Paddy", "Corn", "Chilli"],
+            "landArea": "10 acers",
+            "landImageIcon": "ic_land_image",
+            "cropImageIcon": "ic_crop_image",
+            "profilePicUrl": "https://www.sundayguardianlive.com/wp-content/uploads/2019/01/5_Kundan-farmers-edited_farmer-reu-1.jpg"
+        },
+        {
+            "name": "Kung Fu Pande",
+            "userId": "10252",
+            "FPO_name": "Koutla(B) MACTS Ltd.",
+            "cropsNameList": ["Paddy", "Corn", "Chilli"],
+            "landArea": "10 acers",
+            "landImageIcon": "ic_land_image",
+            "cropImageIcon": "ic_crop_image",
+            "profilePicUrl": "https://www.sundayguardianlive.com/wp-content/uploads/2019/01/5_Kundan-farmers-edited_farmer-reu-1.jpg"
+        }
+    ]
+}
