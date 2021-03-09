@@ -4,25 +4,25 @@
         {
             "item":"orders",
             "total":32,
-            "daySet": ["mon", "fri", "tue", "wed", "fri", "sat", "sun"],
+            "daySet": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
             "orderSet": [12, 33, 25, 50, 36, 41, 45]
         },
         {
             "item":"sales",
             "total":400,
-            "daySet": ["mon", "fri", "tue", "wed", "fri", "sat", "sun"],
+            "daySet": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
             "orderSet": [20, 33, 25, 10, 36, 41, 39]
         },
         {
             "item":"expenses",
             "total":45000,
-            "daySet": ["mon", "fri", "tue", "wed", "fri", "sat", "sun"],
+            "daySet": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
             "orderSet": [400, 500, 9000, 600, 700, 5000, 3000]
         },
         {
             "item":"paymntDues",
             "total":45000,
-            "daySet": ["mon", "fri", "tue", "wed", "fri", "sat", "sun"],
+           "daySet": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
             "orderSet": [400, 500, 9000, 600, 700, 5000, 3000]
         }
     ]
