@@ -1,0 +1,108 @@
+{
+    "orgId": "0012",
+    "orgName": "YAZALI FARMERS PRODUCER COMPANY LIMITED",
+    "companyName": "XYZ Company",
+    "farmerCount": 2856,
+    "totlaMembers": 400,
+    "maleCount": 500,
+    "femaleCount": 360,
+    "logoUrl": "https://cdn.shopify.com/s/files/1/0060/8043/0180/files/fpo-direct-5x5-logo_480x480.jpg",
+    "coverPicUrl": "https://img.theweek.in/content/dam/week/news/india/images/2019/5/13/farmer-fertilizer-afp.jpg",
+    "aboutOrg": "To carry on the business of production, harvesting, procurement, grading, pooling, handling, marketing, selling, export, import, storage, bottling, packing, buying, selling, supplying, trading, processing including preserving, drying, distilling, brewing, venting, canning and packing of all agricultural, horticultural, vegetables, medicinal, spices crops including of cotton and soyabean and agro inputs like seeds, growth promoters, manures, fertilizers, pesticides, farm machinery, farm tools, animal feed etc. to Provided that the company may carry on any of the activities specified in this clause either by itself or through other institutions. To carry on agriculture, horticulture, aquaculture, sericulture, floriculture, handicrafts, poultry, dairy, goatary & beekeeping and impart training to members in tools and techniques and organize training institutions for the purpose.",
+    "startDate": "11th Jan 2018",
+    "locationName": "Guntur",
+    "locationCoordinates": "10.291838952244726, 76.60039438090796",
+    "mapsUrl": "https://maps.googleapis.com/maps/api/staticmap?center=Berkeley,CA&zoom=13&size=400x400&key=AIzaSyA3kg7YWugGl1lTXmAmaBGPNhDW9pEh5bo&signature=45D4gqkHrzXqD1o0ucV_geljI6A=",
+    "majorCropsList": [{
+            "name": "green Chilli",
+            "description": "300 farmers are cultivating this crop"
+        },
+        {
+            "name": "green Chilli",
+            "description": "300 farmers are cultivating this crop"
+        },
+        {
+            "name": "green Chilli",
+            "description": "300 farmers are cultivating this crop"
+        },
+        {
+            "name": "green Chilli",
+            "description": "300 farmers are cultivating this crop"
+        }
+    ],
+    "importantMembersDetails": [{
+            "title": "CHAIRMAN",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Indian_actor_Amitabh_Bachchan.jpg",
+            "emailId": "amitab@gmail.com",
+            "mobileNumber": "+91-9946599558",
+            "name": "Amitab Bachen"
+        },
+        {
+            "title": "CEO",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sharmila_T_Lux-Award_2016.jpg/220px-Sharmila_T_Lux-Award_2016.jpg",
+            "emailId": "takoor@gmail.com",
+            "mobileNumber": "+91-9946511558",
+            "name": "ShamilaTakoor"
+        }
+    ],
+    "employeeListIcons": [{
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        }
+    ],
+    "farmerListIcons": [{
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+        }
+    ]
+
+
+}
