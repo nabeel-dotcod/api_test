@@ -1,0 +1,52 @@
+{
+    "prjects_meta_data": "dsad0",
+    "projects_list": [{
+            "projectTitle": "Plan Chernobyl",
+            "startDate": "Jan 10,2021",
+            "endDate": "Feb 11, 2021",
+            "details": "Owner:Shikar",
+            "chartData": {
+                "Task in Progress": 5,
+                "Task closed": 8,
+                "Task yet to start": 2,
+                "Task Overdue": 11
+            }
+        },
+        {
+            "projectTitle": "Plan Valencia",
+            "startDate": "Jan 10,2021",
+            "endDate": "Feb 11, 2021",
+            "details": "Owner:Shikari",
+            "chartData": {
+                "Task in Progress": 6,
+                "Task closed": 8,
+                "Task yet to start": 1,
+                "Task Overdue": 12
+            }
+        },
+        {
+            "projectTitle": "Plan Cameroon",
+            "startDate": "Jan 10,2021",
+            "endDate": "Feb 11, 2021",
+            "details": "Owner:Shikar",
+            "chartData": {
+                "Task in Progress": 5,
+                "Task closed": 4,
+                "Task yet to start": 2,
+                "Task Overdue": 11
+            }
+        },
+        {
+            "projectTitle": "Plan Nairobi",
+            "startDate": "Jan 10,2021",
+            "endDate": "Feb 11, 2021",
+            "details": "Owner:Shikar",
+            "chartData": {
+                "Task in Progress": 5,
+                "Task closed": 8,
+                "Task yet to start": 2,
+                "Task Overdue": 9
+            }
+        }
+    ]
+}
