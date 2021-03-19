@@ -1,0 +1,21 @@
+{
+    "metricsMetaData": "sadas",
+    "metricsDetails": [{
+            "item": "Expenses",
+            "dataSet": {
+                "Unreported": 20,
+                "Unsubmitted": 25,
+                "Submitted": 60
+            }
+        },
+        {
+            "item": "Inventory",
+            "dataSet": {
+                "To be packed": 15,
+                "To be shipped": 25,
+                "To be delivered": 75,
+                "To be invoiced": 68
+            }
+        }
+    ]
+}
