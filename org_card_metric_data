@@ -1,0 +1,44 @@
+{
+    "metricMetaData": "dsd",
+    "dataSet": [{
+            "count": 450,
+            "title": "TOTAL MEMBERS",
+            "iconUrl": null
+        },
+        {
+            "count": 400,
+            "title": "MALE",
+            "iconUrl": "ic_male"
+        },
+        {
+            "count": 50,
+            "title": "FEMALE",
+            "iconUrl": "ic_female"
+        },
+        {
+            "count": 6,
+            "title": "TOTAL VILLAGES",
+            "iconUrl": null
+        },
+        {
+            "count": 12,
+            "title": "LOAN REQUESTED",
+            "iconUrl": null
+        },
+        {
+            "count": 300,
+            "title": "INSURENCE REQUESTED",
+            "iconUrl": null
+        },
+        {
+            "count": 212,
+            "title": "NOT BOUGHT FROM FPO",
+            "iconUrl": null
+        },
+        {
+            "count": 19,
+            "title": "FARMERS USING DRONES",
+            "iconUrl": null
+        }
+    ]
+}
