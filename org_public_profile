@@ -15,18 +15,22 @@
     "mapsUrl": "https://maps.googleapis.com/maps/api/staticmap?center=Berkeley,CA&zoom=13&size=400x400&key=AIzaSyA3kg7YWugGl1lTXmAmaBGPNhDW9pEh5bo&signature=45D4gqkHrzXqD1o0ucV_geljI6A=",
     "majorCropsList": [{
             "name": "green Chilli",
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
             "description": "300 farmers are cultivating this crop"
         },
         {
             "name": "green Chilli",
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
             "description": "300 farmers are cultivating this crop"
         },
         {
             "name": "green Chilli",
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
             "description": "300 farmers are cultivating this crop"
         },
         {
             "name": "green Chilli",
+            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
             "description": "300 farmers are cultivating this crop"
         }
     ],
