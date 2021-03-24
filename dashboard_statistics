@@ -6,19 +6,19 @@
   "totalAlertCount": 22,
   "statistics": [
       {
-        "itemIconUrl": "ic_unsubmitted_expense",
+        "itemIconUrl": "https://testingrobin.s3.ap-south-1.amazonaws.com/farmerbytes/expenses/unsubmitted.svg",
         "itemCount": 8,
         "itemName": "Reported",
         "nextIconUrl": "opt"
       },
       {
-        "itemIconUrl": "ic_unreported_expense",
+        "itemIconUrl": "https://testingrobin.s3.ap-south-1.amazonaws.com/farmerbytes/expenses/unreported.svg",
         "itemCount": 5,
         "itemName": "Unreported",
         "nextIconUrl": "opt"
       },
       {
-        "itemIconUrl": "ic_submitted_expense",
+        "itemIconUrl": "https://testingrobin.s3.ap-south-1.amazonaws.com/farmerbytes/expenses/submitted.svg",
         "itemCount": 8,
         "itemName": "Submitted",
         "nextIconUrl": "opt"
@@ -26,17 +26,17 @@
     ],
   "manageItems": [
       {
-        "itemIconUrl": "ic_expenses_item",
+        "itemIconUrl": "https://testingrobin.s3.ap-south-1.amazonaws.com/farmerbytes/expenses/expenses.svg",
         "label": "Expenses",
         "count": 10
       },
       {
-        "itemIconUrl": "ic_reports_item",
+        "itemIconUrl": "https://testingrobin.s3.ap-south-1.amazonaws.com/farmerbytes/expenses/reports.svg",
         "label": "Reports",
         "count": 20
       },
       {
-        "itemIconUrl": "ic_advance_payments_item",
+        "itemIconUrl": "https://testingrobin.s3.ap-south-1.amazonaws.com/farmerbytes/expenses/advance_payments.svg",
         "label": "Payments",
         "count": 20
       }
