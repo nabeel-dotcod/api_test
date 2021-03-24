@@ -1,0 +1,65 @@
+{
+  "pageTitle": "Inventory",
+  "PageSubTitle": "Manage Inventory",
+  "topStatisticsTitle": "Showing statistics of",
+  "bottomItemsTitle": "Inventory items",
+  "totalAlertCount": 22,
+  "statistics": [
+      {
+        "itemIconUrl": "ic_unsubmitted_expense",
+        "itemCount": 2,
+        "itemName": "To be packed",
+        "nextIconUrl": "opt"
+      },
+      {
+        "itemIconUrl": "ic_unreported_expense",
+        "itemCount": 5,
+        "itemName": "To be shipped",
+        "nextIconUrl": "opt"
+      },
+      {
+        "itemIconUrl": "ic_submitted_expense",
+        "itemCount": 6,
+        "itemName": "To be delivered",
+        "nextIconUrl": "opt"
+      },
+      {
+        "itemIconUrl": "ic_unreported_expense",
+        "itemCount": 3,
+        "itemName": "To be invoiced",
+        "nextIconUrl": "opt"
+      }
+    ],
+  "manageItems": [
+      {
+        "itemIconUrl": "ic_expenses_item",
+        "label": "Purchase Orders",
+        "count": 10
+      },
+      {
+        "itemIconUrl": "ic_reports_item",
+        "label": "Sales Orders",
+        "count": 20
+      },
+            {
+        "itemIconUrl": "ic_expenses_item",
+        "label": "Invoices",
+        "count": 10
+      },
+      {
+        "itemIconUrl": "ic_reports_item",
+        "label": "Bills",
+        "count": 20
+      },
+            {
+        "itemIconUrl": "ic_reports_item",
+        "label": "Inventory",
+        "count": 20
+      },
+      {
+        "itemIconUrl": "ic_advance_payments_item",
+        "label": "Customers",
+        "count": 20
+      }
+    ]
+}
