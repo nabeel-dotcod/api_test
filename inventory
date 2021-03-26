@@ -1,0 +1,73 @@
+[{
+        "itemName": "Green gram seeds",
+        "itemImageUrl": "https://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/03/06/Photos/nuclearprotest2--621x414.jpg",
+        "units": {
+            "value": 25,
+            "unitMessure": "Kg"
+        },
+        "type_of_inventory": "Goods",
+        "skuValue": 25896,
+        "salesInfo": "sales info",
+        "purchaseInfo": "Purchase Info",
+        "alertThreshold": 25,
+        "quantity": 15,
+        "published": true,
+        "instock": true,
+        "price": 258,
+        "warehouseDetails": "Agro farming Noida Warehouse"
+    },
+    {
+        "itemName": "Green gram seeds",
+        "itemImageUrl": "https://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/03/06/Photos/nuclearprotest2--621x414.jpg",
+        "units": {
+            "value": 25,
+            "unitMessure": "Kg"
+        },
+        "type_of_inventory": "Goods",
+        "skuValue": 25896,
+        "salesInfo": "sales info",
+        "purchaseInfo": "Purchase Info",
+        "alertThreshold": 25,
+        "quantity": 15,
+        "published": true,
+        "instock": true,
+        "price": 258,
+        "warehouseDetails": "Agro farming Noida Warehouse"
+    },
+    {
+        "itemName": "Green gram seeds",
+        "itemImageUrl": "https://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/03/06/Photos/nuclearprotest2--621x414.jpg",
+        "units": {
+            "value": 25,
+            "unitMessure": "Kg"
+        },
+        "type_of_inventory": "Goods",
+        "skuValue": 25896,
+        "salesInfo": "sales info",
+        "purchaseInfo": "Purchase Info",
+        "alertThreshold": 25,
+        "quantity": 15,
+        "published": true,
+        "instock": true,
+        "price": 258,
+        "warehouseDetails": "Agro farming Noida Warehouse"
+    },
+    {
+        "itemName": "Green gram seeds",
+        "itemImageUrl": "https://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/03/06/Photos/nuclearprotest2--621x414.jpg",
+        "units": {
+            "value": 25,
+            "unitMessure": "Kg"
+        },
+        "type_of_inventory": "Goods",
+        "skuValue": 25896,
+        "salesInfo": "sales info",
+        "purchaseInfo": "Purchase Info",
+        "alertThreshold": 25,
+        "quantity": 15,
+        "published": true,
+        "instock": true,
+        "price": 258,
+        "warehouseDetails": "Agro farming Noida Warehouse"
+    }
+]
