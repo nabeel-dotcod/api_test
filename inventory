@@ -6,7 +6,7 @@
             "unitMessure": "Kg"
         },
         "type_of_inventory": "Goods",
-        "skuValue": 25896,
+        "skuValue": "jk222",
         "salesInfo": "sales info",
         "purchaseInfo": "Purchase Info",
         "alertThreshold": 25,
@@ -24,7 +24,7 @@
             "unitMessure": "Kg"
         },
         "type_of_inventory": "Goods",
-        "skuValue": 25896,
+        "skuValue": "jk222",
         "salesInfo": "sales info",
         "purchaseInfo": "Purchase Info",
         "alertThreshold": 25,
@@ -42,7 +42,7 @@
             "unitMessure": "Kg"
         },
         "type_of_inventory": "Goods",
-        "skuValue": 25896,
+        "skuValue": "jk222",
         "salesInfo": "sales info",
         "purchaseInfo": "Purchase Info",
         "alertThreshold": 25,
@@ -60,7 +60,7 @@
             "unitMessure": "Kg"
         },
         "type_of_inventory": "Goods",
-        "skuValue": 25896,
+        "skuValue": "jk222",
         "salesInfo": "sales info",
         "purchaseInfo": "Purchase Info",
         "alertThreshold": 25,
