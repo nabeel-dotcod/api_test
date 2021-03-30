@@ -1,0 +1,310 @@
+[
+    {
+        "customerId": "cfa20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+        "type": "SALES",
+        "status": "New",
+        "billingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "shippingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "items": [{
+            "quantity": 2,
+            "unitPrice": {
+                "value": 23000,
+                "currency": "INR"
+            },
+            "itemId": "dra20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+            "taxRatePercentage": 3.0,
+            "discountAbsoluteValue": 0.0,
+            "subTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "discountTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "taxTotal": {
+                "value": 1380,
+                "currency": "INR"
+            },
+            "total": {
+                "value": 44620,
+                "currency": "INR"
+            }
+        }],
+        "subTotal": {
+            "value": 44620,
+            "currency": "INR"
+        },
+        "totalTax": {
+            "value": 1380,
+            "currency": "INR"
+        },
+        "orderLevelDiscount": 0.0,
+        "shippingCost": {
+            "value": 120,
+            "currency": "INR"
+        },
+        "total": {
+            "value": 44500,
+            "currency": "INR"
+        },
+        "payment": {
+            "status": "Pending",
+            "method": "COD",
+            "paymentResponse": "Negative",
+            "paidAmount": {
+                "value": 0,
+                "currency": "INR"
+            },
+            "remainingAmount": {
+                "value": 44500,
+                "currency": "INR"
+            }
+        },
+        "shipments": [{
+            "trackingNumber": "#0025468",
+            "carrier": "DCC",
+            "shippedDate": "25/07/2021",
+            "url": "",
+            "paid": false,
+            "status": "Pending",
+            "notes": "Bla bla"
+        }],
+        "orderDate": "23/07/2021",
+        "shipmentDate": "25/07/2021",
+        "deliveryMethod": "On site",
+        "notes": "Bla bla",
+        "termsAndConditions": "bla vla vla"
+    },
+    {
+        "customerId": "cfa20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+        "type": "SALES",
+        "status": "New",
+        "billingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "shippingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "items": [{
+            "quantity": 2,
+            "unitPrice": {
+                "value": 23000,
+                "currency": "INR"
+            },
+            "itemId": "dra20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+            "taxRatePercentage": 3.0,
+            "discountAbsoluteValue": 0.0,
+            "subTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "discountTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "taxTotal": {
+                "value": 1380,
+                "currency": "INR"
+            },
+            "total": {
+                "value": 44620,
+                "currency": "INR"
+            }
+        }],
+        "subTotal": {
+            "value": 44620,
+            "currency": "INR"
+        },
+        "totalTax": {
+            "value": 1380,
+            "currency": "INR"
+        },
+        "orderLevelDiscount": 0.0,
+        "shippingCost": {
+            "value": 120,
+            "currency": "INR"
+        },
+        "total": {
+            "value": 44500,
+            "currency": "INR"
+        },
+        "payment": {
+            "status": "Pending",
+            "method": "COD",
+            "paymentResponse": "Negative",
+            "paidAmount": {
+                "value": 0,
+                "currency": "INR"
+            },
+            "remainingAmount": {
+                "value": 44500,
+                "currency": "INR"
+            }
+        },
+        "shipments": [{
+            "trackingNumber": "#0025468",
+            "carrier": "DCC",
+            "shippedDate": "25/07/2021",
+            "url": "",
+            "paid": false,
+            "status": "Pending",
+            "notes": "Bla bla"
+        }],
+        "orderDate": "23/07/2021",
+        "shipmentDate": "25/07/2021",
+        "deliveryMethod": "On site",
+        "notes": "Bla bla",
+        "termsAndConditions": "bla vla vla"
+    },
+    {
+        "customerId": "cfa20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+        "type": "SALES",
+        "status": "New",
+        "billingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "shippingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "items": [{
+            "quantity": 2,
+            "unitPrice": {
+                "value": 23000,
+                "currency": "INR"
+            },
+            "itemId": "dra20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+            "taxRatePercentage": 3.0,
+            "discountAbsoluteValue": 0.0,
+            "subTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "discountTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "taxTotal": {
+                "value": 1380,
+                "currency": "INR"
+            },
+            "total": {
+                "value": 44620,
+                "currency": "INR"
+            }
+        }],
+        "subTotal": {
+            "value": 44620,
+            "currency": "INR"
+        },
+        "totalTax": {
+            "value": 1380,
+            "currency": "INR"
+        },
+        "orderLevelDiscount": 0.0,
+        "shippingCost": {
+            "value": 120,
+            "currency": "INR"
+        },
+        "total": {
+            "value": 44500,
+            "currency": "INR"
+        },
+        "payment": {
+            "status": "Pending",
+            "method": "COD",
+            "paymentResponse": "Negative",
+            "paidAmount": {
+                "value": 0,
+                "currency": "INR"
+            },
+            "remainingAmount": {
+                "value": 44500,
+                "currency": "INR"
+            }
+        },
+        "shipments": [{
+            "trackingNumber": "#0025468",
+            "carrier": "DCC",
+            "shippedDate": "25/07/2021",
+            "url": "",
+            "paid": false,
+            "status": "Pending",
+            "notes": "Bla bla"
+        }],
+        "orderDate": "23/07/2021",
+        "shipmentDate": "25/07/2021",
+        "deliveryMethod": "On site",
+        "notes": "Bla bla",
+        "termsAndConditions": "bla vla vla"
+    },
+    {
+        "customerId": "cfa20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+        "type": "SALES",
+        "status": "New",
+        "billingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "shippingAddress": "Global Technology Park Tower C Marathahalli - Sarjapur Outer Ring Road Hobli, Devarabisanahalli, Bellandur, Varthur, Karnataka 560103",
+        "items": [{
+            "quantity": 2,
+            "unitPrice": {
+                "value": 23000,
+                "currency": "INR"
+            },
+            "itemId": "dra20e1d-0c8b-4f97-8f68-dd146aa72ed6",
+            "taxRatePercentage": 3.0,
+            "discountAbsoluteValue": 0.0,
+            "subTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "discountTotal": {
+                "value": 46000,
+                "currency": "INR"
+            },
+            "taxTotal": {
+                "value": 1380,
+                "currency": "INR"
+            },
+            "total": {
+                "value": 44620,
+                "currency": "INR"
+            }
+        }],
+        "subTotal": {
+            "value": 44620,
+            "currency": "INR"
+        },
+        "totalTax": {
+            "value": 1380,
+            "currency": "INR"
+        },
+        "orderLevelDiscount": 0.0,
+        "shippingCost": {
+            "value": 120,
+            "currency": "INR"
+        },
+        "total": {
+            "value": 44500,
+            "currency": "INR"
+        },
+        "payment": {
+            "status": "Pending",
+            "method": "COD",
+            "paymentResponse": "Negative",
+            "paidAmount": {
+                "value": 0,
+                "currency": "INR"
+            },
+            "remainingAmount": {
+                "value": 44500,
+                "currency": "INR"
+            }
+        },
+        "shipments": [{
+            "trackingNumber": "#0025468",
+            "carrier": "DCC",
+            "shippedDate": "25/07/2021",
+            "url": "",
+            "paid": false,
+            "status": "Pending",
+            "notes": "Bla bla"
+        }],
+        "orderDate": "23/07/2021",
+        "shipmentDate": "25/07/2021",
+        "deliveryMethod": "On site",
+        "notes": "Bla bla",
+        "termsAndConditions": "bla vla vla"
+    }
+]
