@@ -7,19 +7,19 @@
   "statistics": [
       {
         "itemIconUrl": "ic_unsubmitted_expense",
-        "itemCount": 8,
+        "itemCount": 0,
         "itemName": "Reported",
         "nextIconUrl": "opt"
       },
       {
         "itemIconUrl": "ic_unreported_expense",
-        "itemCount": 5,
+        "itemCount": 1,
         "itemName": "Unreported",
         "nextIconUrl": "opt"
       },
       {
         "itemIconUrl": "ic_submitted_expense",
-        "itemCount": 8,
+        "itemCount": 0,
         "itemName": "Submitted",
         "nextIconUrl": "opt"
       }
