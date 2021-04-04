@@ -8,18 +8,18 @@
             "details": "Mode of water supply:Sprinklers"
         },
         {
-            "cropName": "Cabbage",
-            "cropImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cabbage-royalty-free-image-511789974-1546449748.jpg",
-            "locationDetails": "Field 3 (14.80569,74.35982)",
-            "alertMessage": "Water level has reduced from 120mm to 90mm",
-            "details": "Mode of water supply:Sprinklers"
+            "cropName": "Potato",
+            "cropImage": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg",
+            "locationDetails": "Field 5 (12.80569,74.35982)",
+            "alertMessage": "Water level has increased from 10mm to 90mm",
+            "details": "Mode of water supply:Direct"
         },
         {
-            "cropName": "Cabbage",
-            "cropImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cabbage-royalty-free-image-511789974-1546449748.jpg",
-            "locationDetails": "Field 3 (14.80569,74.35982)",
-            "alertMessage": "Water level has reduced from 120mm to 90mm",
-            "details": "Mode of water supply:Sprinklers"
+            "cropName": "Garlic",
+            "cropImage": "https://i.ytimg.com/vi/Dtck2h6U62c/maxresdefault.jpg",
+            "locationDetails": "Field 1 (15.80569,74.35982)",
+            "alertMessage": "Heat level has reduced from 120mm to 90mm",
+            "details": "Mode of heat supply:Sun"
         }
     ]
 }
