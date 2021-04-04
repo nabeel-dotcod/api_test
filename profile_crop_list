@@ -2,37 +2,37 @@
     "cropMetaData": "dasd",
     "crop_list": [{
             "id": "00125",
-            "crop_name": "paddy",
+            "crop_name": "Potato",
+            "area": "9 acers",
+            "cropImage": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg",
+            "date": "Jan 25 2021"
+        },
+        {
+            "id": "00125",
+            "crop_name": "Chilli",
             "area": "9 acers",
             "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
             "date": "Jan 25 2021"
         },
         {
             "id": "00125",
-            "crop_name": "paddy",
+            "crop_name": "Cardamom",
             "area": "9 acers",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropImage": "https://www.bigbasket.com/media/uploads/p/l/20000463-5_7-bb-royal-cardamomelaichi-green.jpg",
             "date": "Jan 25 2021"
         },
         {
             "id": "00125",
-            "crop_name": "paddy",
+            "crop_name": "Garlic",
             "area": "9 acers",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropImage": "https://i.ytimg.com/vi/Dtck2h6U62c/maxresdefault.jpg",
             "date": "Jan 25 2021"
         },
         {
             "id": "00125",
-            "crop_name": "paddy",
+            "crop_name": "Ginger",
             "area": "9 acers",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
-            "date": "Jan 25 2021"
-        },
-        {
-            "id": "00125",
-            "crop_name": "paddy",
-            "area": "9 acers",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "cropImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/265990_1100-1100x628.jpg",
             "date": "Jan 25 2021"
         }
     ]
