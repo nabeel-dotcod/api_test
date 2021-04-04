@@ -14,23 +14,23 @@
     "locationCoordinates": "10.291838952244726, 76.60039438090796",
     "mapsUrl": "https://maps.googleapis.com/maps/api/staticmap?center=Berkeley,CA&zoom=13&size=400x400&key=AIzaSyA3kg7YWugGl1lTXmAmaBGPNhDW9pEh5bo&signature=45D4gqkHrzXqD1o0ucV_geljI6A=",
     "majorCropsList": [{
-            "name": "green Chilli",
+            "name": "Green Chilli",
             "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
             "description": "300 farmers are cultivating this crop"
         },
         {
-            "name": "green Chilli",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
-            "description": "300 farmers are cultivating this crop"
+            "name": "Potato",
+            "cropImage": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg",
+            "description": "100 farmers are cultivating this crop"
         },
         {
-            "name": "green Chilli",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
-            "description": "300 farmers are cultivating this crop"
+            "name": "Cardamom",
+            "cropImage": "https://www.bigbasket.com/media/uploads/p/l/20000463-5_7-bb-royal-cardamomelaichi-green.jpg",
+            "description": "150 farmers are cultivating this crop"
         },
         {
-            "name": "green Chilli",
-            "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg",
+            "name": "Ginger",
+            "cropImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/265990_1100-1100x628.jpg",
             "description": "300 farmers are cultivating this crop"
         }
     ],
@@ -55,32 +55,36 @@
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://static.toiimg.com/thumb/msid-73540687,width-800,height-600,resizemode-75,imgsize-575035,pt-32,y_pad-40/73540687.jpg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://i.pinimg.com/originals/64/34/b7/6434b727aaf15f4d681a10c2d636c3b1.jpg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://www.globalcosmeticsnews.com/wp-content/uploads/2018/08/ranveer-singh.jpeg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://img.mensxp.com/media/content/2015/Sep/johnabrahamshahidkapoorfacemerge652x4004_1441704136.jpg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://nettv4u.com/fileman/Uploads/Top-10-Bollywood-Actors-With-Least-Facial-Expressions/Ajay_Devgan.jpg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://static.topyaps.com/wp-content/uploads/2018/08/Akshaye-Khanna.jpg"
         }
     ],
     "farmerListIcons": [{
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://img.mensxp.com/media/content/2015/Sep/johnabrahamshahidkapoorfacemerge652x4004_1441704136.jpg"
+        },
+        {
+            "employeeId": "000125",
+            "imageUrl": "https://nettv4u.com/fileman/Uploads/Top-10-Bollywood-Actors-With-Least-Facial-Expressions/Ajay_Devgan.jpg"
         },
         {
             "employeeId": "000125",
@@ -88,23 +92,19 @@
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://static.toiimg.com/thumb/msid-73540687,width-800,height-600,resizemode-75,imgsize-575035,pt-32,y_pad-40/73540687.jpg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://i.pinimg.com/originals/64/34/b7/6434b727aaf15f4d681a10c2d636c3b1.jpg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://www.globalcosmeticsnews.com/wp-content/uploads/2018/08/ranveer-singh.jpeg"
         },
         {
             "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
-        },
-        {
-            "employeeId": "000125",
-            "imageUrl": "https://images.outlookindia.com/public/uploads/articles/2021/1/1/deepika_570_850.jpg"
+            "imageUrl": "https://static.topyaps.com/wp-content/uploads/2018/08/Akshaye-Khanna.jpg"
         }
     ]
 
