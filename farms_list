@@ -1,0 +1,38 @@
+{
+    "metaData": "ds",
+    "farms":[
+        {
+            "ownerId":"c1119d52-2daf-492f-a255-eb728b0cfcc3",
+            "ownerType":"",
+            "farmArea":{
+                "size":"125",
+                "measurementArea":"acres"
+            },
+            "address":"Gurgavu, UP",
+            "label":"Farm A",
+            "agroClimaticZone":""
+        },
+        {
+            "ownerId":"c1119d52-2daf-492f-a255-eb728b0cfcc3",
+            "ownerType":"",
+            "farmArea":{
+                "size":"550",
+                "measurementArea":"hectares"
+            },
+            "address":"Kovguch, KL",
+            "label":"Farm C",
+            "agroClimaticZone":""
+        },
+        {
+            "ownerId":"c1119d52-2daf-492f-a255-eb728b0cfcc3",
+            "ownerType":"",
+            "farmArea":{
+                "size":"1000",
+                "measurementArea":"hectares"
+            },
+            "address":"Vencent, KA",
+            "label":"Farm Q",
+            "agroClimaticZone":""
+        }
+    ]
+}
