@@ -1,38 +1,112 @@
 {
     "metaData": "ds",
-    "farms":[
-        {
-            "ownerId":"c1119d52-2daf-492f-a255-eb728b0cfcc3",
-            "ownerType":"",
-            "farmArea":{
-                "size":"125",
-                "measurementArea":"acres"
+    "farms": [{
+            "ownerId": "c1119d52-2daf-492f-a255-eb728b0cfcc3",
+            "ownerType": "",
+            "farmArea": {
+                "size": "125",
+                "measurementArea": "acres"
             },
-            "address":"Gurgavu, UP",
-            "label":"Farm A",
-            "agroClimaticZone":""
+            "address": "Gurgavu, UP",
+            "label": "Farm A",
+            "agroClimaticZone": "",
+            "croplist": [{
+                    "cropName": "Chilli",
+                    "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg"
+                },
+                {
+                    "cropName": "Potato",
+                    "cropImage": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg"
+                },
+                {
+                    "cropName": "Cardamom",
+                    "cropImage": "https://www.bigbasket.com/media/uploads/p/l/20000463-5_7-bb-royal-cardamomelaichi-green.jpg"
+                },
+                {
+                    "cropName": "Ginger",
+                    "cropImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/265990_1100-1100x628.jpg"
+                },
+                {
+                    "cropName": "Garlic",
+                    "cropImage": "https://i.ytimg.com/vi/Dtck2h6U62c/maxresdefault.jpg"
+                },
+                {
+                    "cropName": "Pepper",
+                    "cropImage": "https://www.thehindubusinessline.com/markets/commodities/rx0ugw/article33500773.ece/ALTERNATES/LANDSCAPE_1200/bl05agriPEPPER4jpg"
+                }
+            ]
         },
         {
-            "ownerId":"c1119d52-2daf-492f-a255-eb728b0cfcc3",
-            "ownerType":"",
-            "farmArea":{
-                "size":"550",
-                "measurementArea":"hectares"
+            "ownerId": "c1119d52-2daf-492f-a255-eb728b0cfcc3",
+            "ownerType": "",
+            "farmArea": {
+                "size": "550",
+                "measurementArea": "hectares"
             },
-            "address":"Kovguch, KL",
-            "label":"Farm C",
-            "agroClimaticZone":""
+            "address": "Kovguch, KL",
+            "label": "Farm C",
+            "agroClimaticZone": "",
+            "croplist": [{
+                    "cropName": "Chilli",
+                    "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg"
+                },
+                {
+                    "cropName": "Potato",
+                    "cropImage": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg"
+                },
+                {
+                    "cropName": "Cardamom",
+                    "cropImage": "https://www.bigbasket.com/media/uploads/p/l/20000463-5_7-bb-royal-cardamomelaichi-green.jpg"
+                },
+                {
+                    "cropName": "Ginger",
+                    "cropImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/265990_1100-1100x628.jpg"
+                },
+                {
+                    "cropName": "Garlic",
+                    "cropImage": "https://i.ytimg.com/vi/Dtck2h6U62c/maxresdefault.jpg"
+                },
+                {
+                    "cropName": "Pepper",
+                    "cropImage": "https://www.thehindubusinessline.com/markets/commodities/rx0ugw/article33500773.ece/ALTERNATES/LANDSCAPE_1200/bl05agriPEPPER4jpg"
+                }
+            ]
         },
         {
-            "ownerId":"c1119d52-2daf-492f-a255-eb728b0cfcc3",
-            "ownerType":"",
-            "farmArea":{
-                "size":"1000",
-                "measurementArea":"hectares"
+            "ownerId": "c1119d52-2daf-492f-a255-eb728b0cfcc3",
+            "ownerType": "",
+            "farmArea": {
+                "size": "1000",
+                "measurementArea": "hectares"
             },
-            "address":"Vencent, KA",
-            "label":"Farm Q",
-            "agroClimaticZone":""
+            "address": "Vencent, KA",
+            "label": "Farm Q",
+            "agroClimaticZone": "",
+            "croplist": [{
+                    "cropName": "Chilli",
+                    "cropImage": "https://images.fineartamerica.com/images-medium-large-5/red-and-green-chilli-peppers-ktsdesignscience-photo-library.jpg"
+                },
+                {
+                    "cropName": "Potato",
+                    "cropImage": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/spud-power-potatoes-are-more-than-carbs-334431.jpg"
+                },
+                {
+                    "cropName": "Cardamom",
+                    "cropImage": "https://www.bigbasket.com/media/uploads/p/l/20000463-5_7-bb-royal-cardamomelaichi-green.jpg"
+                },
+                {
+                    "cropName": "Ginger",
+                    "cropImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/265990_1100-1100x628.jpg"
+                },
+                {
+                    "cropName": "Garlic",
+                    "cropImage": "https://i.ytimg.com/vi/Dtck2h6U62c/maxresdefault.jpg"
+                },
+                {
+                    "cropName": "Pepper",
+                    "cropImage": "https://www.thehindubusinessline.com/markets/commodities/rx0ugw/article33500773.ece/ALTERNATES/LANDSCAPE_1200/bl05agriPEPPER4jpg"
+                }
+            ]
         }
     ]
 }
