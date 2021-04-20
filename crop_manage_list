@@ -13,7 +13,8 @@
             "completedPercent": {
                 "produce": 30,
                 "process": 0,
-                "market": 0
+                "market": 0,
+                "total":30
             },
             "trackerSteps": [{
                     "label": "Create Crop",
@@ -124,9 +125,10 @@
                 "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/9/29/w900X450/Highs.jpg"
             ],
             "completedPercent": {
-                "produce": 60,
+                "produce": 40,
                 "process": 0,
-                "market": 0
+                "market": 0,
+                "total":40
             },
             "trackerSteps": [{
                     "label": "Create Crop",
