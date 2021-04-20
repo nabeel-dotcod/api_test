@@ -11,10 +11,10 @@
                 "https://img3.exportersindia.com/product_images/bc-full/2020/1/6877459/green-gram-1577966388-5234141.jpeg"
             ],
             "completedPercent": {
-                "produce": 30,
+                "produce": 20,
                 "process": 0,
                 "market": 0,
-                "total":30
+                "total":20
             },
             "trackerSteps": [{
                     "label": "Create Crop",
