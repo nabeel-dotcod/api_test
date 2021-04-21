@@ -1,0 +1,231 @@
+{
+    "crop_meta_data": "ss",
+    "cropManageList": [{
+            "label": "Green Gram",
+            "details": "dd",
+            "smartPracticeDetails": "dd",
+            "carbonPracticeDetails": "dd",
+            "bestPracticeDetails": "cd",
+            "profilePics": [
+                "https://4.imimg.com/data4/FJ/PP/MY-26603929/moong-bean-green-gram-500x500.jpg",
+                "https://img3.exportersindia.com/product_images/bc-full/2020/1/6877459/green-gram-1577966388-5234141.jpeg"
+            ],
+            "completedPercent": {
+                "produce": 20,
+                "process": 0,
+                "market": 0,
+                "total":20
+            },
+            "trackerSteps": [{
+                    "label": "Create Crop",
+                    "description": "Create the crop",
+                    "status": "Completed",
+                    "category": "",
+                    "stepActions": [{
+                            "label": "activity",
+                            "type": "ACTIVITY"
+                        },
+                        {
+                            "label": "expense",
+                            "type": "EXPENSE"
+                        }
+                    ],
+                    "videos": [
+                        "aC2Nmq7W800",
+                        "oe5LGRdk2d8",
+                        "Zf1TRvcuPhg",
+                        "1h3AxvEzR4k"
+                    ],
+                    "articles": [
+                        "https://www.agrifarming.in/green-gram-cultivation",
+                        "https://agritech.tnau.ac.in/agriculture/CropProduction/Pulses/pulses_greengram.html",
+                        "https://www.apnikheti.com/en/pn/agriculture/crops/pulses/green-gram-moong"
+                    ]
+                },
+                {
+                    "label": "Finance Planning",
+                    "description": "plan financial support",
+                    "status": "notCompleted",
+                    "category": "",
+                    "stepActions": [{
+                            "label": "activity",
+                            "type": "ACTIVITY"
+                        },
+                        {
+                            "label": "expense",
+                            "type": "EXPENSE"
+                        }
+                    ],
+                    "videos": [
+                        "DtcywIVhZnI",
+                        "xgzF9YcXhq8",
+                        "_aq_5hkoZJc",
+                        "Lw7tjcCnVmo"
+                    ],
+                    "articles": [
+                        "https://indianmoney.com/articles/financial-planning-for-farmers",
+                        "https://www.grainsa.co.za/the-importance-of-financial-planning-in-the-agri-market",
+                        "https://www.teagasc.ie/rural-economy/farm-management/financial-analysis/farm-business-planning/developing-a-financial-plan/"
+                    ]
+                },
+                {
+                    "label": "Land Preparation",
+                    "description": "prepare land",
+                    "status": "notCompleted",
+                    "category": "",
+                    "stepActions": [{
+                            "label": "activity",
+                            "type": "ACTIVITY"
+                        },
+                        {
+                            "label": "expense",
+                            "type": "EXPENSE"
+                        }
+                    ],
+                    "videos": [
+                        "fuZ597Dy2As",
+                        "4C7gAYeDUB4",
+                        "0BM5HvBf_6M",
+                        "1h3AxvEzR4k"
+                    ],
+                    "articles": [
+                        "https://www.ikisan.com/ap-greengram-land-preparation.html#:~:text=One%20deep%20ploughing%20followed%20by,till%20harvesting%20of%20main%20crop.",
+                        "https://www.digitrac.in/agricare-blog/land-preparation-for-green-gram",
+                        "https://www.indiaagronet.com/indiaagronet/crop%20info/green_gram.htm"
+                    ]
+                }
+            ],
+            "preferences": [
+                { "title": "Insurance Quote Help", "description": "Please select yes if you need help in getting a insurance quote", "cropPreferenceType": "", "needHelp": true },
+                { "title": "Loan Quote Help", "description": "Please select yes if you need help in getting a insurance quote", "cropPreferenceType": "", "needHelp": true },
+                { "title": "Equipment Quote Help", "description": "Please select yes if you need help in getting a equipment vendor connections", "cropPreferenceType": "", "needHelp": true },
+                { "title": "Market Help Linkage Help", "description": "Please select yes if you need help in getting a market linkages", "cropPreferenceType": "", "needHelp": true }
+            ],
+            "farmLandId": "uuid",
+            "farmLandDetail": {
+                "farmArea": {
+                    "size": "125",
+                    "measurementArea": "acres"
+                },
+                "address": "Gurgavu, UP",
+                "label": "Farm A"
+            },
+            "cropCultivationYear":"2021",
+            "season":"Rabbi season",
+            "sawDate":"12-4-2021"
+        },
+        {
+            "label": "Wheat",
+            "details": "dd",
+            "smartPracticeDetails": "dd",
+            "carbonPracticeDetails": "dd",
+            "bestPracticeDetails": "cd",
+            "profilePics": [
+                "https://5.imimg.com/data5/ST/QW/MY-38700875/fresh-wheat-crop-500x500.jpg",
+                "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/9/29/w900X450/Highs.jpg"
+            ],
+            "completedPercent": {
+                "produce": 40,
+                "process": 0,
+                "market": 0,
+                "total":40
+            },
+            "trackerSteps": [{
+                    "label": "Create Crop",
+                    "description": "Create the crop",
+                    "status": "Completed",
+                    "category": "",
+                    "stepActions": [{
+                            "label": "activity",
+                            "type": "ACTIVITY"
+                        },
+                        {
+                            "label": "expense",
+                            "type": "EXPENSE"
+                        }
+                    ],
+                    "videos": [
+                        "col_ityE8kw",
+                        "6EoEzK4YYME",
+                        "0ZV3zStYVhQ",
+                        "1h3AxvEzR4k"
+                    ],
+                    "articles": [
+                        "https://www.yourarticlelibrary.com/cultivation/wheat-cultivation-in-india-conditions-and-distribution/20924",
+                        "https://www.britannica.com/plant/wheat"
+                    ]
+                },
+                {
+                    "label": "Finance Planning",
+                    "description": "plan financial support",
+                    "status": "notCompleted",
+                    "category": "",
+                    "stepActions": [{
+                            "label": "activity",
+                            "type": "ACTIVITY"
+                        },
+                        {
+                            "label": "expense",
+                            "type": "EXPENSE"
+                        }
+                    ],
+                    "videos": [
+                        "fkO3EhG7v3c",
+                        "xgzF9YcXhq8",
+                        "gT_hn5irRfQ",
+                        "Lw7tjcCnVmo"
+                    ],
+                    "articles": [
+                        "https://indianmoney.com/articles/financial-planning-for-farmers",
+                        "https://www.grainsa.co.za/the-importance-of-financial-planning-in-the-agri-market",
+                        "https://www.teagasc.ie/rural-economy/farm-management/financial-analysis/farm-business-planning/developing-a-financial-plan/"
+                    ]
+                },
+                {
+                    "label": "Land Preparation",
+                    "description": "prepare land",
+                    "status": "notCompleted",
+                    "category": "",
+                    "stepActions": [{
+                            "label": "activity",
+                            "type": "ACTIVITY"
+                        },
+                        {
+                            "label": "expense",
+                            "type": "EXPENSE"
+                        }
+                    ],
+                    "videos": [
+                        "col_ityE8kw",
+                        "6EoEzK4YYME",
+                        "0ZV3zStYVhQ",
+                        "1h3AxvEzR4k"
+                    ],
+                    "articles": [
+                        "https://www.ikisan.com/ap-greengram-land-preparation.html#:~:text=One%20deep%20ploughing%20followed%20by,till%20harvesting%20of%20main%20crop.",
+                        "https://www.digitrac.in/agricare-blog/land-preparation-for-green-gram",
+                        "https://www.indiaagronet.com/indiaagronet/crop%20info/green_gram.htm"
+                    ]
+                }
+            ],
+            "preferences": [
+                { "title": "Insurance Quote Help", "description": "Please select yes if you need help in getting a insurance quote", "cropPreferenceType": "", "needHelp": true },
+                { "title": "Loan Quote Help", "description": "Please select yes if you need help in getting a insurance quote", "cropPreferenceType": "", "needHelp": true },
+                { "title": "Equipment Quote Help", "description": "Please select yes if you need help in getting a equipment vendor connections", "cropPreferenceType": "", "needHelp": true },
+                { "title": "Market Help Linkage Help", "description": "Please select yes if you need help in getting a market linkages", "cropPreferenceType": "", "needHelp": true }
+            ],
+            "farmLandId": "uuid",
+            "farmLandDetail": {
+                "farmArea": {
+                    "size": "300",
+                    "measurementArea": "acres"
+                },
+                "address": "Ottapalam, KL",
+                "label": "Farm Z"
+            },
+            "cropCultivationYear":"2021",
+            "season":"Rabbi season",
+            "sawDate":"12-4-2021"
+        }
+    ]
+}
