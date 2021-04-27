@@ -1,9 +1,8 @@
-{
-    "pageTitle": "Advance Payments",
-    "paymentsList": [{
-            "paymentId": "#ER-10250",
-            "name": "Ramesh Nambiyar",
-            "paymentDate": "25-Jan-2021",
+[
+        {
+            "id": "#ER-10250",
+            "referenceNumber": "Ramesh Nambiyar",
+            "type": "25-Jan-2021",
             "amount": "$3000"
         },
         {
@@ -36,5 +35,4 @@
             "paymentDate": "25-Jan-2021",
             "amount": "$3000"
         }
-    ]
-}
+]
