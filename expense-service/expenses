@@ -1,0 +1,44 @@
+[
+    {
+        "submitDate": "2021-03-16T03:07:57.514+0000",
+        "referenceNumber": "EN-001",
+        "vendor": null,
+        "type": "SeedPlantation",
+        "amount": {
+            "value": 1000,
+            "currency": "INR"
+        },
+        "description": "Seed Plantation Expense",
+        "status": "New",
+        "claimReimbursement": true,
+        "reportId": "8f54d4cd-a3c8-11eb-a3c8-990f3218101f",
+        "id": "7bb8626b-a3c8-11eb-a3c8-b371c14dcc3c",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T00:11:42.940Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-23T00:13:22.139Z"
+        }
+    },
+    {
+        "submitDate": "2021-04-22T03:07:57.514+0000",
+        "referenceNumber": "EN-002",
+        "vendor": null,
+        "type": "Gas",
+        "amount": {
+            "value": 500,
+            "currency": "INR"
+        },
+        "description": "Travel Expense",
+        "status": "New",
+        "claimReimbursement": true,
+        "reportId": "8f54d4cd-a3c8-11eb-a3c8-990f3218101f",
+        "id": "8d423fd3-a3fb-11eb-ab22-cd7c95646950",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T06:17:16.698Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-23T06:17:16.698Z"
+        }
+    }
+]
