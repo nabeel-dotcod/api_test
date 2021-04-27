@@ -1,38 +1,117 @@
 [
-        {
-            "id": "#ER-10250",
-            "referenceNumber": "Ramesh Nambiyar",
-            "type": "25-Jan-2021",
-            "amount": "$3000"
+   {
+        "submitDate": "2021-05-04T00:00:00.000+0000",
+        "referenceNumber": "PN-001",
+        "user": {
+            "id": "deca2c3e-8602-11eb-9588-8f613bfd0ff8",
+            "fullName": "Nabeel",
+            "profileUrl": ""
         },
-        {
-            "paymentId": "#ER-10251",
-            "name": "John Honayi",
-            "paymentDate": "23-Jan-2021",
-            "amount": "$5000"
+        "type": "Rent",
+        "amount": {
+            "value": 3500,
+            "currency": "INR"
         },
-        {
-            "paymentId": "#ER-10350",
-            "name": "Thomas Kutti",
-            "paymentDate": "10-Jan-2021",
-            "amount": "$8000"
-        },
-        {
-            "paymentId": "#ER-10550",
-            "name": "Gilbert Hoipos",
-            "paymentDate": "06-Jan-2021",
-            "amount": "$3000"
-        },
-        {
-            "paymentId": "#ER-10450",
-            "name": "Sathish vasi",
-            "paymentDate": "04-Feb-2021",
-            "amount": "$3000"
-        },
-        {
-            "paymentId": "#ER-10050",
-            "name": "Ramesh Nambiyar",
-            "paymentDate": "25-Jan-2021",
-            "amount": "$3000"
+        "description": "Rent Payments",
+        "status": "New",
+        "id": "2704f051-a3e7-11eb-ab22-9f0fa3e32fd6",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T03:51:15.234Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-26T08:06:22.018Z"
         }
+    },
+    {
+        "submitDate": "2021-01-09T00:00:00.000+0000",
+        "referenceNumber": "PN-002",
+        "user": {
+            "id": "deca2c3e-8602-11eb-9588-8f613bfd0ff8",
+            "fullName": "Nabeel",
+            "profileUrl": ""
+        },
+        "type": "Transportation",
+        "amount": {
+            "value": 1750,
+            "currency": "INR"
+        },
+        "description": "Transportation charges",
+        "status": "New",
+        "id": "2704f051-a3e7-11eb-ab22-9f0fa3a32fdb",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-01-10T03:51:15.234Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-01-11T08:06:22.018Z"
+        }
+    },
+    {
+        "submitDate": "2021-05-07T00:00:00.000+0000",
+        "referenceNumber": "PN-003",
+        "user": {
+            "id": "deca2c3e-8602-11eb-9588-8f613bfd0ff8",
+            "fullName": "Nabeel",
+            "profileUrl": ""
+        },
+        "type": "Rent",
+        "amount": {
+            "value": 2700,
+            "currency": "INR"
+        },
+        "description": "Rent Payments",
+        "status": "New",
+        "id": "2704f051-a3e7-11eb-ab22-9f0fa3e32fd6",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-05-08T03:51:15.234Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-05-08T08:06:22.018Z"
+        }
+    },
+    {
+        "submitDate": "2021-09-03T00:00:00.000+0000",
+        "referenceNumber": "PN-004",
+        "user": {
+            "id": "deca2c3e-8602-11eb-9588-8f613bfd0ff8",
+            "fullName": "Nabeel",
+            "profileUrl": ""
+        },
+        "type": "Salary",
+        "amount": {
+            "value": 12000,
+            "currency": "INR"
+        },
+        "description": "Advance salary",
+        "status": "New",
+        "id": "2704f051-a3e7-11eb-ab22-9f0fa3e32fd6",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T03:51:15.234Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-26T08:06:22.018Z"
+        }
+    },
+    {
+        "submitDate": "2021-09-03T00:00:00.000+0000",
+        "referenceNumber": "PN-005",
+        "user": {
+            "id": "deca2c3e-8602-11eb-9588-8f613bfd0ff8",
+            "fullName": "Nabeel",
+            "profileUrl": ""
+        },
+        "type": "Rent",
+        "amount": {
+            "value": 4000,
+            "currency": "INR"
+        },
+        "description": "Rent Payments",
+        "status": "New",
+        "id": "2704f051-a3e7-11eb-ab22-9f0fa3e32fd6",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T03:51:15.234Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-26T08:06:22.018Z"
+        }
+    }
 ]
