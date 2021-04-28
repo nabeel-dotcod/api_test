@@ -1,0 +1,74 @@
+[
+     {
+        "startDate": "2021-09-03T00:00:00.000+0000",
+        "endDate": "2021-09-03T00:00:00.000+0000",
+        "title": "December 2020 Expenses",
+        "referenceNumber": "EN-001",
+        "description": "December 2020 Expenses",
+        "status": "New",
+        "expenses": [
+            "7bb8626b-a3c8-11eb-a3c8-b371c14dcc3c"
+        ],
+        "id": "8f54d4cd-a3c8-11eb-a3c8-990f3218101f",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T00:12:15.842Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-23T00:14:48.506Z"
+        }
+    },
+     {
+        "startDate": "2021-09-03T00:00:00.000+0000",
+        "endDate": "2021-09-03T00:00:00.000+0000",
+        "title": "January 2020 Expenses",
+        "referenceNumber": "EN-001",
+        "description": "January 2020 Expenses",
+        "status": "New",
+        "expenses": [
+            "7bb8626b-a3c8-11eb-a3c8-b371c14dcc3c"
+        ],
+        "id": "8f54d4cd-a3c8-11eb-a3c8-990f3218101f",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T00:12:15.842Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-23T00:14:48.506Z"
+        }
+    },
+     {
+        "startDate": "2021-09-03T00:00:00.000+0000",
+        "endDate": "2021-09-03T00:00:00.000+0000",
+        "title": "February 2020 Expenses",
+        "referenceNumber": "EN-001",
+        "description": "February 2020 Expenses",
+        "status": "New",
+        "expenses": [
+            "7bb8626b-a3c8-11eb-a3c8-b371c14dcc3c"
+        ],
+        "id": "8f54d4cd-a3c8-11eb-a3c8-990f3218101f",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T00:12:15.842Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-23T00:14:48.506Z"
+        }
+    },
+     {
+        "startDate": "2021-09-03T00:00:00.000+0000",
+        "endDate": "2021-09-03T00:00:00.000+0000",
+        "title": "March 2020 Expenses",
+        "referenceNumber": "EN-001",
+        "description": "March 2020 Expenses",
+        "status": "New",
+        "expenses": [
+            "7bb8626b-a3c8-11eb-a3c8-b371c14dcc3c"
+        ],
+        "id": "8f54d4cd-a3c8-11eb-a3c8-990f3218101f",
+        "adminData": {
+            "createdBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "createdOn": "2021-04-23T00:12:15.842Z",
+            "updatedBy": "a601eb3f-e53d-11e9-b3ea-43da9e805f15",
+            "updatedOn": "2021-04-23T00:14:48.506Z"
+        }
+    }
+]
